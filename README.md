@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Nano
 
 <!--
 **nanonikuradze/nanonikuradze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 How to reach me: nanon@umich.edu
+- Connect with me: [Linkedin](https://www.linkedin.com/in/nano-nikuradze-533b8131b/)
